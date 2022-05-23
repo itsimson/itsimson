@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsimson
-- 👀 I’m interested in physics, electricity, programming and robotics
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning .NET 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
